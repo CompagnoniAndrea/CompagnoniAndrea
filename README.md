@@ -1,43 +1,36 @@
-## Hi, I'm Andrea 👋
+<h1 align="center">Hi, I'm Andrea! 👋</h1>
 
-MSc Computer Science & Engineering student working on AI. I'm curious about the mechanisms behind learning and intelligence: how principles from nature, such as selection, reinforcement and adaptation, can be modelled and built into AI systems.
+<p align="center">
+  <em>MSc student in Computer Science & Engineering @ Politecnico di Milano · Graduate Researcher @ NECSTLab</em>
+</p>
 
-- 🎓 MSc Computer Science & Engineering @ **Politecnico di Milano**
-- 🔬 Graduate Researcher @ **NECSTLab**, working on Graph Matching Networks for protein–ligand binding affinity prediction
-- 🧬 Interested in Reinforcement Learning, evolutionary algorithms, multi-agent systems and Generative AI
-- 🌱 Currently exploring how reward-driven adaptation and selection can improve training of autonomous systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-8A2BE2" alt="Focus: AI / ML">
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-1f6feb" alt="Focus: Software Engineering">
+</p>
 
-### Featured projects
+---
 
-👉 [**Multi-Agent LLM Trivia**](https://github.com/CompagnoniAndrea/multi-agent-llm-trivia)
-- ReAct multi-agent system: an orchestrator routes each question to specialised Math and Knowledge agents
-- Open-source LLMs running locally, with 4-bit quantization and KV caching
-- LoRA fine-tuning and prompt engineering to maximise accuracy under tight latency constraints
+### About me
 
-👉 [**Drone Route Optimization**](https://github.com/CompagnoniAndrea/drone-route-optimization)
-- Inspection paths through a 3D building modelled as a graph
-- Mixed Integer Programming model that minimises travel time and energy consumption
-- K-Means clustering heuristic that keeps large instances tractable
+I'm an MSc student in Computer Science & Engineering at Politecnico di Milano, focusing on **Artificial Intelligence**. 
 
-👉 [**VHDL Numerical Filter**](https://github.com/CompagnoniAndrea/modulo-HW-numerical_filter-VHDL)
-- FPGA accelerator for 3rd/5th-order differential filtering, controlled by a 15-state FSM
-- Divider-free shift-add normalisation with exact rounding correction for negative values
-- 929 LUTs, 0 latches, f<sub>max</sub> ≈ 65.8 MHz on Artix-7, validated by self-checking stress testbenches
+As a Graduate Researcher at **NECSTLab**, I design Graph Matching Networks with cross-graph attention to predict compound–protein binding affinity.
 
-### More projects
+I'm curious about the mechanisms behind learning and intelligence: how principles from nature, such as selection, reinforcement and adaptation, can be built into AI systems. Next, I'd like to explore **Reinforcement Learning**, **evolutionary algorithms**, **multi-agent systems** and **Generative AI**.
 
-- [**medical-DL-classifiers**](https://github.com/CompagnoniAndrea/medical-DL-classifiers): CNNs for biomedical image classification and LSTMs for multivariate time series
-- [**space-cargo**](https://github.com/CompagnoniAndrea/space-cargo): real-time multiplayer board game in Java, with interchangeable Socket and RMI networking
-- [**VHDL Numerical Filter**](https://github.com/CompagnoniAndrea/modulo-HW-numerical_filter-VHDL)
-<!-- TODO: add the 3 new repos here (or in Featured projects) -->
+I volunteered at the Milano Cortina 2026 Winter Olympics. Outside engineering, I love sports and nature: I play football and enjoy hiking.
 
-### Tech
+### Tech stack
 
-`Python` `PyTorch` `PyTorch Geometric` `LangChain` `Hugging Face` `Java` `VHDL` `C/C++` `SQL` `Git`
+- **Languages**: Python, Java, C/C++, VHDL, SQL, JavaScript
+- **AI / ML**: PyTorch, PyTorch Geometric, Hugging Face, LangChain / LangGraph, scikit-learn, Optuna
+- **Optimisation**: Python-MIP, NetworkX
+- **Tools**: Git, Linux, Maven, JUnit, Vivado
 
-### Let's connect!
+### Get in touch
 
-- 💼 LinkedIn: [link](https://www.linkedin.com/in/andrea-compagnoni-21505539b/)
-- 📫 andre.compagnoni@gmail.com
+- 📧 [andre.compagnoni@gmail.com](mailto:andre.compagnoni@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrea-compagnoni)
 
-Always open to feedback, ideas and collaborations.
+---
