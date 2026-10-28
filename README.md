@@ -24,9 +24,10 @@ I volunteered at the Milano Cortina 2026 Winter Olympics. Outside engineering, I
 ### Tech stack
 
 - **Languages**: Python, Java, C/C++, VHDL, SQL, JavaScript
-- **AI / ML**: PyTorch, PyTorch Geometric, Hugging Face, LangChain / LangGraph, scikit-learn, Optuna
+- **Deep Learning**: PyTorch, scikit-learn, NumPy, pandas, Optuna
+- **LLMs & Agents**: Hugging Face, LangChain, LangGraph, Ollama
 - **Optimisation**: Python-MIP, NetworkX
-- **Tools**: Git, Linux, Maven, JUnit, Vivado
+- **Tools**: Git, Linux, Maven, JUnit, Xilinx Vivado
 
 ### Get in touch
 
