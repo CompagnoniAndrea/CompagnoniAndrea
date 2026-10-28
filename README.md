@@ -15,11 +15,12 @@
 
 I'm an MSc student in Computer Science & Engineering at Politecnico di Milano, focusing on **Artificial Intelligence**. 
 
-As a Graduate Researcher at **NECSTLab**, I design Graph Matching Networks with cross-graph attention to predict compound–protein binding affinity.
+As a Graduate Researcher at **NECSTLab**, im working on a research pro design Graph Matching Networks with cross-graph attention to predict compound–protein binding affinity.
 
 I'm curious about the mechanisms behind learning and intelligence: how principles from nature, such as selection, reinforcement and adaptation, can be built into AI systems. Next, I'd like to explore **Reinforcement Learning**, **evolutionary algorithms**, **multi-agent systems** and **Generative AI**.
 
-I volunteered at the Milano Cortina 2026 Winter Olympics. Outside engineering, I love sports and nature: I play football and enjoy hiking.
+I volunteered at the Milano Cortina 2026 Winter Olympics. 
+Outside engineering, I love sports and nature, I play football and enjoy hiking.
 
 ### Tech stack
 
