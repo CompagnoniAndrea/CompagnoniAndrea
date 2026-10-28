@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-8A2BE2" alt="Focus: AI / ML">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-1f6feb" alt="Focus: Software Engineering">
+  <img src="https://img.shields.io/badge/Focus-Engineering-1f6feb" alt="Focus: Engineering">
 </p>
 
 ---
@@ -19,16 +19,15 @@ As a Graduate Researcher at **NECSTLab**, im working on a research pro design Gr
 
 I'm curious about the mechanisms behind learning and intelligence: how principles from nature, such as selection, reinforcement and adaptation, can be built into AI systems. Next, I'd like to explore **Reinforcement Learning**, **evolutionary algorithms**, **multi-agent systems** and **Generative AI**.
 
-I volunteered at the Milano Cortina 2026 Winter Olympics. 
+I volunteered at the Milano Cortina 2026 Winter Olympics. <br>
 Outside engineering, I love sports and nature, I play football and enjoy hiking.
 
 ### Tech stack
 
-- **Languages**: Python, Java, C/C++, VHDL, SQL, JavaScript
-- **Deep Learning**: PyTorch, scikit-learn, NumPy, pandas, Optuna
-- **LLMs & Agents**: Hugging Face, LangChain, LangGraph, Ollama
-- **Optimisation**: Python-MIP, NetworkX
-- **Tools**: Git, Linux, Maven, JUnit, Xilinx Vivado
+- **Languages** - Python, Java, C/C++, VHDL, SQL, JavaScript
+- **Deep Learning** - PyTorch, scikit-learn, NumPy, pandas
+- **LLMs & Agents** - Hugging Face, LangChain, open-models
+- **Optimisation** - Python-MIP, NetworkX
 
 ### Get in touch
 
