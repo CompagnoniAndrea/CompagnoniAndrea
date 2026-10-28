@@ -15,7 +15,7 @@
 
 I'm an MSc student in Computer Science & Engineering at Politecnico di Milano, focusing on **Artificial Intelligence**. 
 
-As a Graduate Researcher at **NECSTLab**, im working on a research pro design Graph Matching Networks with cross-graph attention to predict compound–protein binding affinity.
+As a Graduate Researcher at **NECSTLab**, I'm working on a Graph Matching Network for drug discovery that aims to use cross-attention between protein and ligand graphs to improve compound–protein affinity prediction and binding interpretability.
 
 I'm curious about the mechanisms behind learning and intelligence: how principles from nature, such as selection, reinforcement and adaptation, can be built into AI systems. Next, I'd like to explore **Reinforcement Learning**, **evolutionary algorithms**, **multi-agent systems** and **Generative AI**.
 
